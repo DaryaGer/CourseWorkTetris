@@ -1,0 +1,15 @@
+E:\Курсач\Tetris\Tetris\bin\Debug\Tetris.exe.config
+E:\Курсач\Tetris\Tetris\bin\Debug\Tetris.exe
+E:\Курсач\Tetris\Tetris\bin\Debug\Tetris.pdb
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+E:\Курсач\Tetris\Tetris\obj\Debug\MainWindow.g.cs
+E:\Курсач\Tetris\Tetris\obj\Debug\App.g.cs
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.cache
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris_MarkupCompile.lref
+E:\Курсач\Tetris\Tetris\obj\Debug\MainWindow.baml
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.g.resources
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.exe
+E:\Курсач\Tetris\Tetris\obj\Debug\Tetris.pdb
